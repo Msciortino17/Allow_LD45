@@ -1,0 +1,4 @@
+Engine: Unity 2019.1.8f
+Graphics: GraphicsGale
+Font: Microsoft default fonts, Consola
+Sound Effects: Generated with sfxr (http://www.drpetter.se/project_sfxr.html)
